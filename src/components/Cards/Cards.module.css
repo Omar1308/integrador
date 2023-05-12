@@ -1,0 +1,11 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    text-align:left;
+    flex-direction: row;
+    justify-content: space-between; 
+    align-items: center;
+    margin: auto;
+    padding: 30px;
+    
+}
